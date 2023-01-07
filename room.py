@@ -3,7 +3,6 @@ import signal
 import socket
 import sys
 
-# CS 3357 Assignment 4 - room.py
 # Author: Meg Zhang using provided assignment 3 solution code.
 # Date: 11/18/22
 
