@@ -1,5 +1,4 @@
-CS 3357 Assignment 4
-Author: Meg Zhang using provided Assignment 3 solution code
+Author: Meg Zhang
 12/8/22
 
 Usage:
