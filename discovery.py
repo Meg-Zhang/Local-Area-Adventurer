@@ -3,7 +3,6 @@ import socket
 import sys
 from urllib.parse import urlparse
 
-# CS 3357 Assignment 4 - discovery.py
 # Author: Meg Zhang
 # Date: 11/18/22
 
