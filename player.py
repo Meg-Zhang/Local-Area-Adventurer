@@ -5,7 +5,6 @@ import socket
 import sys
 from urllib.parse import urlparse
 
-# CS 3357 Assignment 4 - player.py
 # Author: Meg Zhang using provided assignment 3 solution code.
 # Date: 11/18/22
 
